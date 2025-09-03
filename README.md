@@ -1,10 +1,11 @@
 # WabbaClicker Pro v1.0
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub stars](https://img.shields.io/github/stars/vitorgomespro/WabbaClickerPro?style=social)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/) [![GitHub stars](https://img.shields.io/github/stars/vitorgomespro/WabbaClickerPro?style=social)](https://github.com/vitorgomespro/WabbaClickerPro/stargazers)
+
 
 > 🚀 Automação em Python para downloads de Modlists no Wabbajack e Nexus. Desenvolvido para tornar a instalação de centenas de mods uma tarefa simples e automática.
+
+Se você NÃO possui o Nexus Premium e está com uma Modlist gigante para Skyrim ou outro game, não se preocupe! Aqui está sua solução...
 
 ![Demonstração da Interface do WabbaClicker Pro](https://imgur.com/a/hpnumov) 
 
