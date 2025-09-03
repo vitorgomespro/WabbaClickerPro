@@ -8,10 +8,12 @@
 Se você NÃO possui o Nexus Premium e está com uma Modlist gigante para Skyrim ou outro game, não se preocupe! Aqui está sua solução...
 
 ## Demostração do que acontece no seu Console:
-![Demonstração da Interface do WabbaClicker Pro](https://github.com/vitorgomespro/WabbaClickerPro/blob/main/assets/2f241d63-824d-47b9-98dc-5747ad98eb8d.png?raw=true) 
+![Demonstração da Interface do Console](https://github.com/vitorgomespro/WabbaClickerPro/blob/main/assets/Anima%C3%A7%C3%A3o.gif?raw=true) 
 Você consegue acompanhar cada ação da automação em tempo real!
 
-![Demonstração da Interface do WabbaClicker Pro](https://github.com/vitorgomespro/WabbaClickerPro/blob/main/assets/2f241d63-824d-47b9-98dc-5747ad98eb8d.png?raw=true) 
+## Demostração do que acontece no seu Wabbajack
+![Demonstração da Interface do WabbaClicker P](https://github.com/vitorgomespro/WabbaClickerPro/blob/main/assets/Anima%C3%A7%C3%A3o%20do%20Wabbajack.gif?raw=true) 
+Você pode fazer outras atividades enquanto deixa o seu PC fazer o trabalho de baixar sua lista de mods sozinho!
 
 ---
 
