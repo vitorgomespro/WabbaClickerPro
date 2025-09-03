@@ -7,7 +7,7 @@
 
 Se você NÃO possui o Nexus Premium e está com uma Modlist gigante para Skyrim ou outro game, não se preocupe! Aqui está sua solução...
 
-![Demonstração da Interface do WabbaClicker Pro](https://imgur.com/a/hpnumov) 
+![Demonstração da Interface do WabbaClicker Pro](https://github.com/vitorgomespro/WabbaClickerPro/blob/main/assets/2f241d63-824d-47b9-98dc-5747ad98eb8d.png?raw=true) 
 
 ---
 
