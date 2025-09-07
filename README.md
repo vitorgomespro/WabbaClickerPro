@@ -56,6 +56,19 @@ Se você quiser rodar ou modificar o projeto a partir do código-fonte:
     ```bash
     python wabbaclickerpro.py
     ```
+    
+## ❤️ Apoie o Projeto
+
+Se o WabbaClicker Pro te ajudou e economizou seu tempo, considere apoiar meu trabalho com um café! ☕
+
+Qualquer contribuição via PIX é um grande incentivo para eu continuar desenvolvendo e compartilhando novas soluções como esta.
+
+![QR Code PIX para doação](https://github.com/vitorgomespro/WabbaClickerPro/blob/main/imagens/QRcode-PIX.JPG?raw=true
+)
+
+**Chave PIX Aleatória:** `0417c9d6-bdd4-4c89-8330-ad95df5f2b55`
+
+Muito obrigado pelo seu apoio!
 
 ---
 *Desenvolvido por [VitorGomesPro](https://github.com/vitorgomespro).*
