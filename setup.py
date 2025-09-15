@@ -28,7 +28,6 @@ executavel = Executable(
 )
 
 # --- Execução do Setup ---
-# Informações do seu programa
 setup(
     name="WabbaClicker Pro",
     version="1.1",
