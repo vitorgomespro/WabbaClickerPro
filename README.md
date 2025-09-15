@@ -1,4 +1,4 @@
-# WabbaClicker Pro v1.0
+# WabbaClicker Pro v1.1
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/) [![GitHub stars](https://img.shields.io/github/stars/vitorgomespro/WabbaClickerPro?style=social)](https://github.com/vitorgomespro/WabbaClickerPro/stargazers)
 
@@ -14,6 +14,15 @@ Você consegue acompanhar cada ação da automação em tempo real!
 ## Demostração do que acontece no seu Wabbajack
 ![Demonstração da Interface do WabbaClicker P](https://github.com/vitorgomespro/WabbaClickerPro/blob/main/assets/Anima%C3%A7%C3%A3o%20do%20Wabbajack.gif?raw=true) 
 Você pode fazer outras atividades enquanto deixa o seu PC fazer o trabalho de baixar sua lista de mods sozinho!
+
+---
+## 📆 Atualizações
+
+### v1.1 – 15/09/2025
+- 🔄 **Novo Design de Botões:** passou a buscar os novos botões “Slow download” do Nexus.
+- 🖼️ **Novas Imagens de Referência:** adicionadas `imagens/Novobotaov2.png` e `imagens/Novobotaov2_hover.png`.
+- 🛠️ **Robustez Aprimorada:** ajustes no nível de confiança e na lógica de detecção de elementos.
+- 📄 **Changelog Interno:** veja `updates.txt` para detalhes completos desta versão.
 
 ---
 
