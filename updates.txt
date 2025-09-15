@@ -1,0 +1,12 @@
+Atualização da Ferramenta 1.1
+Data: 15/09/2025
+
+
+Motivo da Atualização:
+- O Nexus Atualizou o Layout da página de download de mods e alterou o Design dos botões fazendo que o mecanismo de busca dos botões de "Slow download"
+Não encontrasse mais os botões.
+
+O que mudou:
+Então essa atualização é justamente para adiconar as novas imagens dos botões com o novo Design para o código encontrar os novos botões!
+
+

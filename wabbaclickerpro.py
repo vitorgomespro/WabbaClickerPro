@@ -9,8 +9,8 @@ init(autoreset=True)
 # --- Configurações ---
 DELAY_INICIAL = 10 
 IMAGENS_BOTAO = [
-    os.path.join('imagens', 'botao1.png'),
-    os.path.join('imagens', 'botao2.png')
+    os.path.join('imagens', 'Novobotaov2.png'),
+    os.path.join('imagens', 'Novobotaov2_hover.png')
 ]
 IMAGEM_RODAPE = os.path.join('imagens', 'rodape.jpg')
 INTERVALO_SCROLL = 2
