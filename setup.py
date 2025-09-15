@@ -5,7 +5,7 @@ from cx_Freeze import setup, Executable
 
 # Lista de arquivos e pastas para incluir. 
 # Adicionamos a pasta 'Imagens' inteira.
-arquivos_para_incluir = ['Imagens/']
+arquivos_para_incluir = ['imagens/']
 
 # Lista de bibliotecas que nosso script usa
 pacotes_necessarios = ["os", "sys", "time", "pyautogui", "colorama"]
@@ -31,7 +31,7 @@ executavel = Executable(
 # Informações do seu programa
 setup(
     name="WabbaClicker Pro",
-    version="1.0",
+    version="1.1",
     description="Automatomação de Download de Mods pelo Wabbajack e Nexus",
     options={"build_exe": build_exe_options},
     executables=[executavel]
