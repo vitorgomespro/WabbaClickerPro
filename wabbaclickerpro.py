@@ -75,7 +75,7 @@ try:
     while True:
         limpar_tela()
         print(Fore.MAGENTA + "=============================================================")
-        print(Fore.WHITE +   "                  WabbaClicker Pro v1.0")
+        print(Fore.WHITE +   "                  WabbaClicker Pro v1.1")
         print(Fore.CYAN +    "     Desenvolvido e disponibilizado por @vitorgomespro")
         print(Fore.WHITE +   "          >>> Segue no instagram e no GitHub <<<")
         print(Fore.MAGENTA + "=============================================================")
